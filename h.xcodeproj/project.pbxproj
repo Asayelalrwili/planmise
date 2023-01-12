@@ -11,6 +11,17 @@
 		182C557B296DC99000938E18 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 182C557A296DC99000938E18 /* ContentView.swift */; };
 		182C557D296DC99000938E18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182C557C296DC99000938E18 /* Assets.xcassets */; };
 		182C5580296DC99000938E18 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182C557F296DC99000938E18 /* Preview Assets.xcassets */; };
+		183B1C1E296E131E00209CB4 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C1D296E131E00209CB4 /* File.swift */; };
+		183B1C20296E13DF00209CB4 /* Filee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C1F296E13DF00209CB4 /* Filee.swift */; };
+		183B1C22296E296800209CB4 /* add.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C21296E296800209CB4 /* add.swift */; };
+		183B1C27296EB2DB00209CB4 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C26296EB2DB00209CB4 /* ListView.swift */; };
+		183B1C29296EBB0E00209CB4 /* ListRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C28296EBB0E00209CB4 /* ListRowView.swift */; };
+		183B1C2B296ECC2900209CB4 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C2A296ECC2900209CB4 /* AddView.swift */; };
+		183B1C2E296EFC7400209CB4 /* ItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C2D296EFC7400209CB4 /* ItemModel.swift */; };
+		183B1C31296F0C3A00209CB4 /* listviewmodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C30296F0C3A00209CB4 /* listviewmodel.swift */; };
+		183B1C33296F5E5000209CB4 /* progressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C32296F5E5000209CB4 /* progressBar.swift */; };
+		183B1C35296F7A9300209CB4 /* OnBording.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C34296F7A9300209CB4 /* OnBording.swift */; };
+		183B1C37296FDDF500209CB4 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 183B1C36296FDDF500209CB4 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		182C557A296DC99000938E18 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		182C557C296DC99000938E18 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		182C557F296DC99000938E18 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		183B1C1D296E131E00209CB4 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		183B1C1F296E13DF00209CB4 /* Filee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filee.swift; sourceTree = "<group>"; };
+		183B1C21296E296800209CB4 /* add.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = add.swift; sourceTree = "<group>"; };
+		183B1C26296EB2DB00209CB4 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		183B1C28296EBB0E00209CB4 /* ListRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListRowView.swift; sourceTree = "<group>"; };
+		183B1C2A296ECC2900209CB4 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		183B1C2D296EFC7400209CB4 /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
+		183B1C30296F0C3A00209CB4 /* listviewmodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listviewmodel.swift; sourceTree = "<group>"; };
+		183B1C32296F5E5000209CB4 /* progressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = progressBar.swift; sourceTree = "<group>"; };
+		183B1C34296F7A9300209CB4 /* OnBording.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBording.swift; sourceTree = "<group>"; };
+		183B1C36296FDDF500209CB4 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +57,9 @@
 		182C556C296DC98F00938E18 = {
 			isa = PBXGroup;
 			children = (
+				183B1C1D296E131E00209CB4 /* File.swift */,
+				183B1C21296E296800209CB4 /* add.swift */,
+				183B1C1F296E13DF00209CB4 /* Filee.swift */,
 				182C5577296DC99000938E18 /* h */,
 				182C5576296DC99000938E18 /* Products */,
 			);
@@ -52,7 +77,9 @@
 			isa = PBXGroup;
 			children = (
 				182C5578296DC99000938E18 /* hApp.swift */,
-				182C557A296DC99000938E18 /* ContentView.swift */,
+				183B1C2F296F0BEB00209CB4 /* ViewModel */,
+				183B1C2C296EFC3F00209CB4 /* Models */,
+				183B1C25296EB2A700209CB4 /* views */,
 				182C557C296DC99000938E18 /* Assets.xcassets */,
 				182C557E296DC99000938E18 /* Preview Content */,
 			);
@@ -65,6 +92,36 @@
 				182C557F296DC99000938E18 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		183B1C25296EB2A700209CB4 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				182C557A296DC99000938E18 /* ContentView.swift */,
+				183B1C36296FDDF500209CB4 /* Localizable.strings */,
+				183B1C26296EB2DB00209CB4 /* ListView.swift */,
+				183B1C28296EBB0E00209CB4 /* ListRowView.swift */,
+				183B1C2A296ECC2900209CB4 /* AddView.swift */,
+				183B1C34296F7A9300209CB4 /* OnBording.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		183B1C2C296EFC3F00209CB4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				183B1C32296F5E5000209CB4 /* progressBar.swift */,
+				183B1C2D296EFC7400209CB4 /* ItemModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		183B1C2F296F0BEB00209CB4 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				183B1C30296F0C3A00209CB4 /* listviewmodel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				182C5580296DC99000938E18 /* Preview Assets.xcassets in Resources */,
+				183B1C37296FDDF500209CB4 /* Localizable.strings in Resources */,
 				182C557D296DC99000938E18 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +195,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183B1C2E296EFC7400209CB4 /* ItemModel.swift in Sources */,
 				182C557B296DC99000938E18 /* ContentView.swift in Sources */,
+				183B1C33296F5E5000209CB4 /* progressBar.swift in Sources */,
+				183B1C22296E296800209CB4 /* add.swift in Sources */,
+				183B1C2B296ECC2900209CB4 /* AddView.swift in Sources */,
+				183B1C29296EBB0E00209CB4 /* ListRowView.swift in Sources */,
+				183B1C27296EB2DB00209CB4 /* ListView.swift in Sources */,
+				183B1C1E296E131E00209CB4 /* File.swift in Sources */,
+				183B1C35296F7A9300209CB4 /* OnBording.swift in Sources */,
 				182C5579296DC99000938E18 /* hApp.swift in Sources */,
+				183B1C20296E13DF00209CB4 /* Filee.swift in Sources */,
+				183B1C31296F0C3A00209CB4 /* listviewmodel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +335,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"h/Preview Content\"";
+				DEVELOPMENT_TEAM = C898X7HYVB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -295,6 +364,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"h/Preview Content\"";
+				DEVELOPMENT_TEAM = C898X7HYVB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
