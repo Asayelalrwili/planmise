@@ -2,7 +2,22 @@
   Localizable.strings
   h
 
-  Created by asayel on 19/06/1444 AH.
+  Created by roua alsahli on 19/06/1444 AH.
   
 */
-
+"Add balace" = "إضافة موازنة";
+"Add promise" = "إضافة وعد";
+"Reset" = "إعادة";
+"Promises" = "وعود";
+"Add a promise📝" = "إضافة وعد📝";
+"I will spend extra hour with my family" = "سأقضي ساعة زيادة مع عائلتي ";
+"Edit" = "تحرير";
+"Add" = "إضافة" ;
+"Cancel" = "إلغاء" ;
+"Delete" = "حذف" ;
+"Save" = "حفظ" ;
+"Done" = "تم";
+"Think deeply about your life,work,family!" = "فكر بعمق بعائلتك،عملك،حياتك!";
+"Evalute your life balance" = "قيم موازنة حياتك";
+"Make promises to better life, to Balenced life" = "ضع وعود لحياة أفضل،لحياة متوازنه";
+"Skip" = "تخطي";

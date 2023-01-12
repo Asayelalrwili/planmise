@@ -21,7 +21,7 @@
 		183B1C31296F0C3A00209CB4 /* listviewmodel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C30296F0C3A00209CB4 /* listviewmodel.swift */; };
 		183B1C33296F5E5000209CB4 /* progressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C32296F5E5000209CB4 /* progressBar.swift */; };
 		183B1C35296F7A9300209CB4 /* OnBording.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183B1C34296F7A9300209CB4 /* OnBording.swift */; };
-		183B1C37296FDDF500209CB4 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 183B1C36296FDDF500209CB4 /* Localizable.strings */; };
+		544065A2296FEBFC009059C9 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 544065A1296FEBFC009059C9 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,7 +40,7 @@
 		183B1C30296F0C3A00209CB4 /* listviewmodel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = listviewmodel.swift; sourceTree = "<group>"; };
 		183B1C32296F5E5000209CB4 /* progressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = progressBar.swift; sourceTree = "<group>"; };
 		183B1C34296F7A9300209CB4 /* OnBording.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBording.swift; sourceTree = "<group>"; };
-		183B1C36296FDDF500209CB4 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
+		544065A1296FEBFC009059C9 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +98,7 @@
 			isa = PBXGroup;
 			children = (
 				182C557A296DC99000938E18 /* ContentView.swift */,
-				183B1C36296FDDF500209CB4 /* Localizable.strings */,
+				544065A1296FEBFC009059C9 /* Localizable.strings */,
 				183B1C26296EB2DB00209CB4 /* ListView.swift */,
 				183B1C28296EBB0E00209CB4 /* ListRowView.swift */,
 				183B1C2A296ECC2900209CB4 /* AddView.swift */,
@@ -166,6 +166,7 @@
 			knownRegions = (
 				en,
 				Base,
+				ar,
 			);
 			mainGroup = 182C556C296DC98F00938E18;
 			productRefGroup = 182C5576296DC99000938E18 /* Products */;
@@ -183,7 +184,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				182C5580296DC99000938E18 /* Preview Assets.xcassets in Resources */,
-				183B1C37296FDDF500209CB4 /* Localizable.strings in Resources */,
+				544065A2296FEBFC009059C9 /* Localizable.strings in Resources */,
 				182C557D296DC99000938E18 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
