@@ -11,5 +11,7 @@ Userdefault
 voice over
 # video demo
 https://user-images.githubusercontent.com/117271917/212483870-b5b8a7ee-eed6-4725-bf19-d02bd8647ae7.mov
+# challenge summary
+<img width="860" alt="Untitled" src="https://user-images.githubusercontent.com/117271917/212487447-ecd63be7-30f5-4542-86c9-ba0cda6cbb93.png">
 
 
